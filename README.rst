@@ -29,12 +29,6 @@ You can download the syllabus here - TO BE POSTED
 .. image:: http://mybinder.org/badge.svg 
     :target: http://mybinder.org/repo/mmcky/nyu-econ-370
 
-Week 1
-------
-#. Lecture 1 - TO BE POSTED
-#. Assignment 1 - TO BE POSTED
-#. Notebooks - POSTED
-
 References
 ----------
 #. `QuantEcon Online Lecture Notes (Python) <http://quant-econ.net/py/>`__
