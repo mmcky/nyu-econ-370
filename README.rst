@@ -3,6 +3,8 @@ Quantitative Economics with Python
 
 **ECON-UA 370 (NYU, Spring 2016)**
 
+Assignment #1 has been posted
+
 This course aims to teach quantitative economics and the computer language python. We
 use python to teach economics and economics to teach python.
 
