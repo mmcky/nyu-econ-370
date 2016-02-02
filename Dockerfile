@@ -39,3 +39,6 @@ RUN conda install pymc && conda install seaborn
 #-Install Pip Packages
 RUN pip install --upgrade pip
 RUN pip install quantecon
+
+#-Add Notebooks-#
+ADD notebooks/*.ipynb $HOME/
