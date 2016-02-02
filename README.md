@@ -21,6 +21,7 @@ If this conflicts with your schedule please email Matthew or Zhen arrange a time
 ### Updates
 
 * Updated Syllabus has been posted (02-Feb-2016)
+* Assignment #1 has been posted (30-Jan-2016) [Due: Tue 09th February 2016]
 
 ### Topic Breakdown
 
