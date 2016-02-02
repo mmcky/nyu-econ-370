@@ -12,7 +12,7 @@ use python to teach economics and economics to teach python.
 ### Notices
 
 A course test was administered on the first day of this course. 
-New students are **required** to sit a makeup test schedule for:
+New students are **required** to sit a makeup test scheduled for:
 
     Thursday 04th February at 2:00pm @ the Economics Faculty Rm: 724. 
 
