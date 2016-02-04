@@ -21,7 +21,7 @@ RUN apt-get update -y && apt-get install -yq --no-install-recommends \
     && apt-get clean
 
 #-Re-Install Conda for Python3.5 Anaconda Distributions-#
-RUN rm -r /home/main/anaconda
+RUN rm -r /home/main/anaconda2
 
 USER main
 
@@ -39,6 +39,3 @@ RUN conda install pymc && conda install seaborn
 #-Install Pip Packages
 RUN pip install --upgrade pip
 RUN pip install quantecon
-
-#-Add Notebooks-#
-ADD notebooks/*.ipynb $HOME/
