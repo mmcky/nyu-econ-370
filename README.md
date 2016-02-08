@@ -11,6 +11,8 @@ use python to teach economics and economics to teach python.
 
 ### Notices
 
+**Assignment #2** will be posted on Tuesday 09th February 
+
 A course test was administered on the first day of this course. 
 New students are **required** to sit a makeup test scheduled for:
 
