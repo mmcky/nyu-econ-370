@@ -11,17 +11,13 @@ use python to teach economics and economics to teach python.
 
 ### Notices
 
-**Assignment #2** will be posted on Tuesday 09th February 
+**Assignment #2** has been posted and is due on **Tue 16th February 2016**. 
 
-A course test was administered on the first day of this course. 
-New students are **required** to sit a makeup test scheduled for:
-
-    Thursday 04th February at 2:00pm @ the Economics Faculty Rm: 724. 
-
-If this conflicts with your schedule please email Matthew or Zhen arrange a time. 
+You may also submit a digital version to be via email, but please email your assignment to me **before** the Tuesday class.
 
 ### Updates
 
+* Assignment #2 has been posted (10-Feb-2016) [Due: Tue 16th February 2016]
 * Updated Syllabus has been posted (02-Feb-2016)
 * Assignment #1 has been posted (30-Jan-2016) [Due: Tue 09th February 2016]
 
