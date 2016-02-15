@@ -26,7 +26,7 @@ Please use the following standard format when writing your **Subject:**
 
 ### Updates
 
-* Assignment #2 has been posted (10-Feb-2016) [Due: Tue 16th February 2016]
+* Assignment #2 has been posted (10-Feb-2016) [Due: ~~Tue 16th February 2016~~ Thur 18th February 2016]
 * Updated Syllabus has been posted (02-Feb-2016)
 * Assignment #1 has been posted (30-Jan-2016) [Due: Tue 09th February 2016]
 
