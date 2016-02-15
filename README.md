@@ -11,7 +11,7 @@ use python to teach economics and economics to teach python.
 
 ### Notices
 
-**Assignment #2** has been posted and is due on ~Tue 16th February 2016~ **Thur 18th February 2016~. 
+**Assignment #2** has been posted and is due on ~Tue 16th February 2016~ **Thur 18th February 2016** by 9:30am.
 
 # Update
 
