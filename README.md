@@ -11,9 +11,9 @@ use python to teach economics and economics to teach python.
 
 ### Notices
 
-**Assignment #2** has been posted and is due on ~Tue 16th February 2016~ **Thur 18th February 2016** by 9:30am.
+**Assignment #2** has been posted and is due on ~~Tue 16th February 2016~~ **Thur 18th February 2016** by 9:30am.
 
-# Update
+**Update:**
 
 Given the difficulty with setting up Jupyter to print. We are changing the submissions of course assignments to digital format. If you have hand written **Assignment #2** that is ok - you may submit via hard copy, otherwise please scan it and submit a pdf via email. If you have used Jupyter please submit the **ipynb** file. 
 
