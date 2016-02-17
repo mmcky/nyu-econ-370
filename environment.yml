@@ -1,0 +1,8 @@
+
+name: econ370
+
+dependencies:
+  - python=3.5
+  - anaconda
+  - pip:
+    - quantecon
