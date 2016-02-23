@@ -11,21 +11,15 @@ use python to teach economics and economics to teach python.
 
 ### Notices
 
-**Assignment #2** has been posted and is due on ~~Tue 16th February 2016~~ **Thur 18th February 2016** by 9:30am.
+**Assignment #3** has been posted and is due on **Thur 03rd March 2016** by 9:30am.
 
-**Update:**
+Please submit assignments to: econ370nyu@gmail.com as a Jupyter notebook with your solutions.
 
-Given the difficulty with setting up Jupyter to print. We are changing the submissions of course assignments to digital format. If you have hand written **Assignment #2** that is ok - you may submit via hard copy, otherwise please scan it and submit a pdf via email. If you have used Jupyter please submit the **ipynb** file. 
-
-We have setup a submissions email address: econ370nyu@gmail.com
-
-Please use the following standard format when writing your **Subject:**
-
-> ``<assignment-number>-<name>-<id>`` (example: assignment#2-mckay-mm8390)
-
+**Office Hours:** Office Hours for Matthew McKay **for this week** have been **moved** to Thursday 11:00am to 1:00pm.  
 
 ### Updates
 
+* Assignment submission should now be made to: econ370nyu@gmail.com
 * We have changed the way the **mybinder** container is constructed. For those who use mybinder please let me know if you have any issues. Thanks. 
 * Assignment #2 has been posted (10-Feb-2016) [Due: ~~Tue 16th February 2016~~ Thur 18th February 2016]
 * Updated Syllabus has been posted (02-Feb-2016)
