@@ -17,6 +17,8 @@ Please submit assignments to: econ370nyu@gmail.com as a Jupyter notebook with yo
 
 **Office Hours:** Office Hours for Matthew McKay **for this week** have been **moved** to Thursday 11:00am to 1:00pm.  
 
+**Assignment #1** Everyone that submitted Assignment #1 on time has recieved full marks. If you would like feedback on Assignment #1 please come and see me during my office hours in Rm 823 (Economics Faculty) or make an appointment if that time doesn't work.
+
 ### Updates
 
 * Assignment submission should now be made to: econ370nyu@gmail.com
