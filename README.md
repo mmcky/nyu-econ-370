@@ -13,11 +13,11 @@ use python to teach economics and economics to teach python.
 
 **Assignment #3** has been posted and is due on **Thur 03rd March 2016** by 9:30am.
 
-Please submit assignments to: econ370nyu@gmail.com as a Jupyter notebook with your solutions.
-
-**Office Hours:** Office Hours for Matthew McKay **for this week** have been **moved** to Thursday 11:00am to 1:00pm.  
+Please submit assignments to: econ370nyu@gmail.com as a Jupyter notebook with your solutions.  
 
 **Assignment #1** Everyone that submitted Assignment #1 on time has recieved full marks. If you would like feedback on Assignment #1 please come and see me during my office hours in Rm 823 (Economics Faculty) or make an appointment if that time doesn't work. I will post some general feedback to the assignments folder this afternoon. 
+
+**Assignment #2** will be handed back on **Thursday 03rd March 2016**
 
 ### Updates
 
