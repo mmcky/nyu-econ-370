@@ -11,16 +11,17 @@ use python to teach economics and economics to teach python.
 
 ### Notices
 
-**Assignment #3** has been posted and is due on **Thur 03rd March 2016** by 9:30am.
+The **Midterm** is scheduled for **Thur, 24th March 2016**
+
+**Assignment #3** has been posted and is due on ~~Thur 03rd March 2016~~ **Thur 10th March 2016** by 9:30am.
 
 Please submit assignments to: econ370nyu@gmail.com as a Jupyter notebook with your solutions.  
 
-**Assignment #1** Everyone that submitted Assignment #1 on time has recieved full marks. If you would like feedback on Assignment #1 please come and see me during my office hours in Rm 823 (Economics Faculty) or make an appointment if that time doesn't work. I will post some general feedback to the assignments folder this afternoon. 
-
-**Assignment #2** will be handed back on **Thursday 03rd March 2016**
+**Assignment #2** will be handed back on **Thursday 03rd March 2016** along with some general feedback in the **assignments** directory. 
 
 ### Updates
 
+* **Assignment #1** Everyone that submitted Assignment #1 on time has recieved full marks. If you would like feedback on Assignment #1 please come and see me during my office hours in Rm 823 (Economics Faculty) or make an appointment if that time doesn't work. I have posted some general feedback to the assignments folder. (23-Feb-2016)
 * Assignment submission should now be made to: econ370nyu@gmail.com
 * We have changed the way the **mybinder** container is constructed. For those who use mybinder please let me know if you have any issues. Thanks. 
 * Assignment #2 has been posted (10-Feb-2016) [Due: ~~Tue 16th February 2016~~ Thur 18th February 2016]
