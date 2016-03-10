@@ -13,7 +13,7 @@ use python to teach economics and economics to teach python.
 
 The **Midterm** will be held on **Tue, 29th March 2016**. A supplementary info sheet on python will be available as companion information for the test.
 
-**Additional excercises** for Linear State Space Models are available on the course website: http://quant-econ.net/py/linear_models.html (with solutions that make use of the quantecon code library, try produce the same output by writing your own code). We will also post a set of practice problems focused on programming and applications of linear algebra over the break.
+**Additional exercises** for Linear State Space Models are available on the course website: http://quant-econ.net/py/linear_models.html (with solutions that make use of the quantecon code library, try produce the same output by writing your own code). We will also post a set of practice problems focused on programming and applications of linear algebra over the break.
 
 **Assignment #3** is due on ~~Thur 03rd March 2016~~ **Thur 10th March 2016** by 9:30am.
 
