@@ -1,0 +1,112 @@
+clc
+clear
+close all
+
+startDate = datenum('01-01-1948');
+ 
+endDate = datenum('02-01-2016');
+
+load labor_force
+
+a=labor_force;
+
+n=size(a,1);
+ 
+xData = linspace(startDate,endDate,n);
+ 
+
+figure
+plot(xData,a,'LineWidth',2)
+datetick('x','yyyy','keeplimits') 
+I = legend('Labor force' );
+set(I,'interpreter','latex'); %set Latex interpreter
+set(I,'FontWeight','bold','FontSize',18);
+set(I,'FontName','Times');
+set(I,'box','Off');
+set(I,'Location','SouthEast');
+set(gcf,'units','normalized','outerposition',[0 0 1 1]);
+saveas(gcf,'labor_force.eps', 'psc2')
+
+
+
+startDate = datenum('01-01-1948');
+ 
+endDate = datenum('02-01-2016');
+
+load employment_labor
+
+a=employment_labor;
+
+n=size(a,1);
+ 
+xData = linspace(startDate,endDate,n);
+ 
+
+figure
+plot(xData,a,'LineWidth',2)
+datetick('x','yyyy','keeplimits') 
+I = legend('Employment to labor force ratio');
+set(I,'interpreter','latex'); %set Latex interpreter
+set(I,'FontWeight','bold','FontSize',18);
+set(I,'FontName','Times');
+set(I,'box','Off');
+set(I,'Location','SouthEast');
+set(gcf,'units','normalized','outerposition',[0 0 1 1]);
+saveas(gcf,'employment_labor.eps', 'psc2')
+
+
+
+
+startDate = datenum('01-01-1948');
+ 
+endDate = datenum('02-01-2016');
+
+load labor_force_part
+
+a=labor_force_part;
+
+n=size(a,1);
+ 
+xData = linspace(startDate,endDate,n);
+ 
+
+figure
+plot(xData,a,'LineWidth',2)
+datetick('x','yyyy','keeplimits') 
+I = legend('Labor force participation rate');
+set(I,'interpreter','latex'); %set Latex interpreter
+set(I,'FontWeight','bold','FontSize',18);
+set(I,'FontName','Times');
+set(I,'box','Off');
+set(I,'Location','SouthEast');
+set(gcf,'units','normalized','outerposition',[0 0 1 1]);
+saveas(gcf,'labor_force_part.eps', 'psc2')
+
+
+
+
+
+startDate = datenum('01-01-1948');
+ 
+endDate = datenum('02-01-2016');
+
+load  unemployment_rate
+
+a= unemployment_rate;
+
+n=size(a,1);
+ 
+xData = linspace(startDate,endDate,n);
+ 
+
+figure
+plot(xData,a,'LineWidth',2)
+datetick('x','yyyy','keeplimits') 
+I = legend('Unemployment rate');
+set(I,'interpreter','latex'); %set Latex interpreter
+set(I,'FontWeight','bold','FontSize',18);
+set(I,'FontName','Times');
+set(I,'box','Off');
+set(I,'Location','SouthEast');
+set(gcf,'units','normalized','outerposition',[0 0 1 1]);
+saveas(gcf,'unemployment_rate.eps', 'psc2')
