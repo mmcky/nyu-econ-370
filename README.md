@@ -15,6 +15,10 @@ The **Midterm** will be held on **Tue, 29th March 2016**. A supplementary info s
 
 **Additional exercises** for Linear State Space Models are available on the course website: http://quant-econ.net/py/linear_models.html (with solutions that make use of the quantecon code library, try produce the same output by writing your own code that doesn't make use of the quantecon library). Make sure you read over: http://http://quant-econ.net/py/linear_algebra.html. We will upload a notebook built around these notes with *optional* practice problems on Friday 18th March.
 
+**Note** To get the best rendering for notebooks it is best to use nbviewer. This can be done by prepending the notebook web address with http://nbviewer.jupyter.org/github/. An example is:
+
+http://nbviewer.jupyter.org/github/mmcky/nyu-econ-370/blob/master/notebooks/notes-linear-algebra.ipynb
+
 Please submit assignments to: econ370nyu@gmail.com as a Jupyter notebook with your solutions.  
 
 ### Updates
