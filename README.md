@@ -19,7 +19,7 @@ Please submit assignments to: econ370nyu@gmail.com as a Jupyter notebook with yo
 
 ### Updates
 
-* Uploaded some practice excercises for linear algebra (with some Python problems) [18th March 2016]
+* Uploaded some practice exercises for linear algebra (with some Python problems) [18th March 2016]
 * Updated the midterm date (09th March 2016)
 * Updated Linear State Space Models Notebook
 * **Assignment #2** Solutions and general feedback have been posted
