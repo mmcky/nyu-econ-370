@@ -23,6 +23,7 @@ Please submit assignments to: econ370nyu@gmail.com as a Jupyter notebook with yo
 
 ### Updates
 
+* Updated Lake Model worker dynamics lecture and posted some solutions for assignment #3 [24th March 2016]
 * Uploaded a python reference sheet [21st March 2016]
 * Uploaded some practice exercises for linear algebra (with some Python problems) [18th March 2016]
 * Updated the midterm date (09th March 2016)
