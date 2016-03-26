@@ -11,9 +11,11 @@ use python to teach economics and economics to teach python.
 
 ### Notices
 
+**Assignment #4** has been posted to GitHub and is due on **Tuesday 05th April**. This assignment covers material from the **lake model** and **markov processes**.
+
 The **Midterm** will be held on **Tue, 29th March 2016**. A supplementary info sheet on python will be available as companion information for the test.
 
-**Additional exercises** for Linear State Space Models are available on the course website: http://quant-econ.net/py/linear_models.html (with solutions that make use of the quantecon code library, try produce the same output by writing your own code that doesn't make use of the quantecon library). Make sure you read over: http://http://quant-econ.net/py/linear_algebra.html. We will upload a notebook built around these notes with *optional* practice problems on Friday 18th March.
+**Additional exercises** for Linear State Space Models are available on the course website: http://quant-econ.net/py/linear_models.html (with solutions that make use of the quantecon code library, try produce the same output by writing your own code that doesn't make use of the quantecon library). Make sure you read over: http://http://quant-econ.net/py/linear_algebra.html. 
 
 **Note** To get the best rendering for notebooks it is best to use nbviewer. This can be done by prepending the notebook web address with http://nbviewer.jupyter.org/github/. An example is:
 
@@ -23,6 +25,7 @@ Please submit assignments to: econ370nyu@gmail.com as a Jupyter notebook with yo
 
 ### Updates
 
+* Assignment #4 has been posted and is due **Tuesday 05th April** [26th March 2016]
 * Updated Lake Model worker dynamics lecture and posted some solutions for assignment #3 [24th March 2016]
 * Uploaded a python reference sheet [21st March 2016]
 * Uploaded some practice exercises for linear algebra (with some Python problems) [18th March 2016]
