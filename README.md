@@ -11,11 +11,9 @@ use python to teach economics and economics to teach python.
 
 ### Notices
 
+**Midterm** exams will be handed back in class on **Thursday 07th April 2016**.
+
 **Assignment #4** has been posted to GitHub and is due on **Tuesday 05th April**. This assignment covers material from the **lake model** and **markov processes**.
-
-The **Midterm** will be held on **Tue, 29th March 2016**. A supplementary info sheet on python will be available as companion information for the test.
-
-**Additional exercises** for Linear State Space Models are available on the course website: http://quant-econ.net/py/linear_models.html (with solutions that make use of the quantecon code library, try produce the same output by writing your own code that doesn't make use of the quantecon library). Make sure you read over: http://http://quant-econ.net/py/linear_algebra.html. 
 
 **Note** To get the best rendering for notebooks it is best to use nbviewer. This can be done by prepending the notebook web address with http://nbviewer.jupyter.org/github/. An example is:
 
