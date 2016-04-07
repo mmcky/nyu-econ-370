@@ -11,9 +11,7 @@ use python to teach economics and economics to teach python.
 
 ### Notices
 
-**Midterm** exams will be handed back in class on **Thursday 07th April 2016**.
-
-**Assignment #4** has been posted to GitHub and is due on **Tuesday 05th April**. This assignment covers material from the **lake model** and **markov processes**.
+**Python and Programming Review Workshop** We are looking at scheduling a seminar on **Python Fundamentals** as a review session for students that are new to programming. If you are interested in this workshop could you please send me an email: mm8390@nyu.edu so that I can get an idea of numbers.
 
 **Note** To get the best rendering for notebooks it is best to use nbviewer. This can be done by prepending the notebook web address with http://nbviewer.jupyter.org/github/. An example is:
 
