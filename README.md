@@ -11,6 +11,8 @@ use python to teach economics and economics to teach python.
 
 ### Notices
 
+**Assignment \#5: Working with Data** in Python has been posted to the assignments folder. Please submit the assignment by **9:30am on Thursday 21st April**.
+
 **Python and Programming Review Workshop** We are looking at scheduling a seminar on **Python Fundamentals** as a review session for students that are new to programming. If you are interested in this workshop could you please send me an email: mm8390@nyu.edu so that I can get an idea of numbers.
 
 **Note** To get the best rendering for notebooks it is best to use nbviewer. This can be done by prepending the notebook web address with http://nbviewer.jupyter.org/github/. An example is:
@@ -21,6 +23,7 @@ Please submit assignments to: econ370nyu@gmail.com as a Jupyter notebook with yo
 
 ### Updates
 
+* Assignment #5 has been posted and is due **Thursday 21st April**
 * Assignment #4 has been posted and is due **Tuesday 05th April** [26th March 2016]
 * Updated Lake Model worker dynamics lecture and posted some solutions for assignment #3 [24th March 2016]
 * Uploaded a python reference sheet [21st March 2016]
