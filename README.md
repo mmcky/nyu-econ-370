@@ -13,7 +13,7 @@ use python to teach economics and economics to teach python.
 
 **Assignment \#5: Working with Data** in Python has been posted to the assignments folder. Please submit the assignment by **9:30am on Thursday 21st April**.
 
-**Python and Programming Review Workshop** We are looking at scheduling a seminar on **Python Fundamentals** as a review session for students that are new to programming. If you are interested in this workshop could you please send me an email: mm8390@nyu.edu so that I can get an idea of numbers.
+**Python and Programming Review Workshop** is scheduled for **Monday 18th April** from **6:00pm to 8:00pm**. Location: **Waverly Room 370**. Please bring your laptops. This workshop is for those that are new to programming. We will be reviewing the basics of Python (Types, Conditional Logic, Loops) and basic Linear Algebra operations. 
 
 **Note** To get the best rendering for notebooks it is best to use nbviewer. This can be done by prepending the notebook web address with http://nbviewer.jupyter.org/github/. An example is:
 
