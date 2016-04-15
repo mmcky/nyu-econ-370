@@ -23,6 +23,7 @@ Please submit assignments to: econ370nyu@gmail.com as a Jupyter notebook with yo
 
 ### Updates
 
+* Posted Asset Pricing - Lecture 2 notes. [15th April 2016]
 * Posted a copy of the midterm exam. [13th April 2016]
 * Asset Pricing - Lecture 1 notes have been posted to the *lectures* folder [13th April 2016]
 * Assignment #5 has been posted and is due **Thursday 21st April** [13th April 2016]
