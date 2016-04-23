@@ -11,9 +11,7 @@ use python to teach economics and economics to teach python.
 
 ### Notices
 
-**Assignment \#5: Working with Data** in Python has been posted to the assignments folder. Please submit the assignment by ~~9:30am on Thursday 21st April~~ **9:30am on Tuesday 26th April**.
-
-**Python and Programming Review Workshop** is scheduled for **Monday 18th April** from **6:00pm to 8:00pm**. Location: **Waverly Room 370**. Please bring your laptops. This workshop is for those that are new to programming. We will be reviewing the basics of Python (Types, Conditional Logic, Loops) and basic Linear Algebra operations. 
+**Assignment \#6: Asset Pricing** has been posted to the assignments folder. Please submit the assignment by **6:00pm on Friday 29th April**.
 
 **Note** To get the best rendering for notebooks it is best to use nbviewer. This can be done by prepending the notebook web address with http://nbviewer.jupyter.org/github/. An example is:
 
@@ -23,6 +21,7 @@ Please submit assignments to: econ370nyu@gmail.com as a Jupyter notebook with yo
 
 ### Updates
 
+* Posted Asset Pricing Homework - Assignment #6 [22nd April 2016]
 * Updated working with data lecture [19th April 2016]
 * Posted Asset Pricing - Lecture 2 notes. [15th April 2016]
 * Posted a copy of the midterm exam. [13th April 2016]
