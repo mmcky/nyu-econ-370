@@ -19,11 +19,14 @@ http://nbviewer.jupyter.org/github/mmcky/nyu-econ-370/blob/master/notebooks/note
 
 Please submit assignments to: econ370nyu@gmail.com as a Jupyter notebook with your solutions.  
 
+For those that attended the Python Fundamentals Workshop. The solutions notebook has been posted to the ``notebooks`` folder. 
+
 ### Updates
 
 * Updated Assignment #6 Question #3 [26th April 2016]
 * Posted Asset Pricing Lectures 3 and 4 [26th April 2016]
 * Posted Asset Pricing Homework - Assignment #6 [22nd April 2016]
+* Added python-fundamentals-workshop-solutions notebook
 * Updated working with data lecture [19th April 2016]
 * Posted Asset Pricing - Lecture 2 notes. [15th April 2016]
 * Posted a copy of the midterm exam. [13th April 2016]
