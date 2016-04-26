@@ -21,12 +21,14 @@ Please submit assignments to: econ370nyu@gmail.com as a Jupyter notebook with yo
 
 ### Updates
 
+* Updated Assignment #6 Question #3 [26th April 2016]
+* Posted Asset Pricing Lectures 3 and 4 [26th April 2016]
 * Posted Asset Pricing Homework - Assignment #6 [22nd April 2016]
 * Updated working with data lecture [19th April 2016]
 * Posted Asset Pricing - Lecture 2 notes. [15th April 2016]
 * Posted a copy of the midterm exam. [13th April 2016]
 * Asset Pricing - Lecture 1 notes have been posted to the *lectures* folder [13th April 2016]
-* Assignment #5 has been posted and is due **Thursday 21st April** [13th April 2016]
+* Assignment #5 has been posted and is due ~~Thursday 21st April~~ **Tuesday 26th April** [13th April 2016]
 * Assignment #4 has been posted and is due **Tuesday 05th April** [26th March 2016]
 * Updated Lake Model worker dynamics lecture and posted some solutions for assignment #3 [24th March 2016]
 * Uploaded a python reference sheet [21st March 2016]
