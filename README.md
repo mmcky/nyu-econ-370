@@ -11,7 +11,7 @@ use python to teach economics and economics to teach python.
 
 ### Notices
 
-**Assignment \#6: Asset Pricing** has been posted to the assignments folder. Please submit the assignment by **6:00pm on Friday 29th April**.
+**Assignment \#6: Asset Pricing** has been posted to the assignments folder. Please submit the assignment by ~~6:00pm on Friday 29th April~~ **9:00am on Monday 02nd May**.
 
 **Note** To get the best rendering for notebooks it is best to use nbviewer. This can be done by prepending the notebook web address with http://nbviewer.jupyter.org/github/. An example is:
 
