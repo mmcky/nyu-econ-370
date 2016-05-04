@@ -25,6 +25,7 @@ For those that attended the Python Fundamentals Workshop. The solutions notebook
 
 ### Updates
 
+* Posted Solutions for Assignment #6 on Asset Pricing [04th May 2016]
 * Updated Assignment #6 Question #3 [26th April 2016]
 * Posted Asset Pricing Lectures 3 and 4 [26th April 2016]
 * Posted Asset Pricing Homework - Assignment #6 [22nd April 2016]
