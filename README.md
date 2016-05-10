@@ -15,6 +15,8 @@ use python to teach economics and economics to teach python.
 
 For those students who have **conflicting exams** or have **3 or more exams** on the same day please send me an email. There is an alternative exam scheduled for 13th May from 2:00pm to 3:50pm. To attend on Friday you **must** be registered to sit this exam. 
 
+Solutions to Assignment \#4 were effectively covered when we discussed the midterm solutions to the Lake Model question in class. Please consult your class notes.
+
 **Note** To get the best rendering for notebooks it is best to use nbviewer. This can be done by prepending the notebook web address with http://nbviewer.jupyter.org/github/. An example is:
 
 http://nbviewer.jupyter.org/github/mmcky/nyu-econ-370/blob/master/notebooks/notes-linear-algebra.ipynb
@@ -25,6 +27,7 @@ For those that attended the Python Fundamentals Workshop. The solutions notebook
 
 ### Updates
 
+* Added comment on Solutions for Assignment #4 [10th May 2016]
 * Posted update to Solutions for Assignment #6 to incorporate the linear algebra discussed in class [09th May 2016]
 * Posted Solutions for Assignment #5 Pandas and Assignment #6 on Asset Pricing [04th May 2016]
 * Updated Assignment #6 Question #3 [26th April 2016]
