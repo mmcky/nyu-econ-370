@@ -15,10 +15,13 @@ use python to teach economics and economics to teach python.
 
 For those students who have **conflicting exams** or have **3 or more exams** on the same day please send me an email. There is an alternative exam scheduled for 13th May from 2:00pm to 3:50pm. To attend on Friday you **must** be registered to sit this exam. 
 
-**__Alternative Exam__**
-**Date:** 13th May 2016
-**Time:** 2:00pm to 3:50pm
-**Location:** Rm 736 [19 W. 4th Street, 7FL - Economics]
+
+**Alternative Exam Details** 
+
+| --------- | ------------- |
+| **Date:** | 13th May 2016 |
+| **Time:** | 2:00pm to 3:50pm |
+|**Location:** | Rm 736 [19 W. 4th Street, 7FL - Economics] |
 
 Solutions to Assignment \#4 were effectively covered when we discussed the midterm solutions to the Lake Model question in class. Please consult your class notes.
 
